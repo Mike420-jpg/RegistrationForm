@@ -1,0 +1,32 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    background-image: url(Images/MX5566DA06R_product.webp);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container {
+    border-radius: 25px;
+    margin-top: 50px;
+}
+
+.title {
+    background-color: burlywood;
+    text-align: center;
+    font-size: 18px;
+    padding: 10px;
+}
+
+.RegForm {
+    background-color: white;
+}
+
+.Form {
+    padding: 15px;
+}
+
